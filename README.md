@@ -11,7 +11,7 @@
 
 ---
 
-# 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
 - 💻 Aspiring Full Stack Web Developer
@@ -22,7 +22,7 @@
 
 ---
 
-# 🛠 Tech Stack
+🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,cpp" />
@@ -30,7 +30,7 @@
 
 ---
 
-# 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyush1279&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -44,7 +44,7 @@
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 🏠 Real Estate Marketplace (MERN)
 
@@ -56,7 +56,7 @@
 
 ---
 
-# 🎯 Current Focus
+🎯 Current Focus
 
 ✅ React.js
 
@@ -70,7 +70,7 @@
 
 ---
 
-# 📈 Contribution Graph
+📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush1279&theme=tokyo-night&hide_border=true"/>
@@ -78,7 +78,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pratyush1279&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -86,10 +86,10 @@
 
 ---
 
-# 📫 Connect With Me
+📫 Connect With Me
 
 📧 Email:
-**pratyushpatwal@gmail.com**
+pratyushpatwal@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/pratyush-patwal-198144333?utm_source=share_via&utm_content=profile&utm_medium=member_android
