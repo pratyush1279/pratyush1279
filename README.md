@@ -92,7 +92,7 @@
 **pratyushpatwal@gmail.com**
 
 💼 LinkedIn:
-https://www.linkedin.com/in/pratyush-patwal-198144337/
+https://www.linkedin.com/in/pratyush-patwal-198144333?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
