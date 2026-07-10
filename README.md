@@ -1,55 +1,99 @@
 <h1 align="center">Hi 👋, I'm Pratyush Patwal</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | DSA</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;JavaScript+Enthusiast;Open+to+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;React+%7C+Node+%7C+MongoDB;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pratyush1279&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
-- 💻 Learning MERN Stack
-- 🌱 Currently learning React.js & DSA
+- 💻 Aspiring Full Stack Web Developer
 - 🚀 Building Real World Projects
-- 📍 India
+- 🌱 Currently Learning React, Node.js, Express & MongoDB
+- 📚 Solving DSA Daily
+- 🎯 Goal: Become a MERN Stack Developer
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,cpp" />
 </p>
 
 ---
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pratyush1279&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyush1279&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1279&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1279&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=pratyush1279&theme=tokyonight)
-
----
-
-🚀 Current Focus
-
-- 📚 DSA
-- ⚛ React
-- 🟢 Node.js
-- 🍃 MongoDB
-- 🚀 Full Stack Projects
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=pratyush1279&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-Connect With Me
+# 🚀 Featured Projects
 
-- LinkedIn: https://www.linkedin.com/in/pratyush-patwal-198144333?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: pratyushpatwal@gmail.com
+🏠 Real Estate Marketplace (MERN)
+
+🍃 PaanYatra (MERN - In Progress)
+
+📚 DSA Journey
+
+⚡ JavaScript Practice
 
 ---
 
-⭐ *Learning. Building. Improving.*
+# 🎯 Current Focus
+
+✅ React.js
+
+✅ Node.js
+
+✅ MongoDB
+
+✅ Express.js
+
+✅ Data Structures & Algorithms
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush1279&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pratyush1279&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:
+**pratyushpatwal@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/pratyush-patwal-198144337/
+
+---
+
+<h3 align="center">⭐ Learning • Building • Improving ⭐</h3>
